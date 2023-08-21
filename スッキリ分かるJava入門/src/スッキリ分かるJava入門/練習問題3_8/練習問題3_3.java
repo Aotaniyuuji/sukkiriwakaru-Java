@@ -1,6 +1,6 @@
-package スッキリ分かるJava入門;
+package スッキリ分かるJava入門.練習問題3_8;
 
-public class 練習問題3_8 {
+public class 練習問題3_3 {
  public static void main(String[] args) {
 	 //	 練習問題3-3
 	 int isHungry = 0;
