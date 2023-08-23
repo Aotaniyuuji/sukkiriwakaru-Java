@@ -1,4 +1,4 @@
-package スッキリ分かるJava入門;
+package スッキリ分かるJava入門第3章;
 
 public class 九九 {
 	public static void main(String[] args) {

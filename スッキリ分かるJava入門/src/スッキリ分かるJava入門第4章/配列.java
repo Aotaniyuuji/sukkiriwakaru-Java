@@ -1,4 +1,4 @@
-package スッキリ分かるJava入門;
+package スッキリ分かるJava入門第4章;
 
 public class 配列 {
  public static void main(String[] args) {
