@@ -8,5 +8,7 @@ public class 配列 {
 	 System.out.println("要素の数:" + num);
 	 scores[1] = 30;
 	 System.out.println(scores[1]);
+	 int[] scores1 = new int[] {20,30,40,50,80};
+	 int[] scores2 = {20,30,40,50,80};
  }
 }
