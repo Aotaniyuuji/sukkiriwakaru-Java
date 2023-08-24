@@ -1,7 +1,7 @@
 package スッキリ分かるJava入門第4章;
 
 public class ガベージコレクション {
- public static void main(String[] args) {
+	public static void main(String[] args) {
 	 boolean judge = true;
 	 if (judge == true) {
 		 //配列変数自体はif文内で寿命を迎えるが、値は寿命を迎えずそのままどの配列変数からも参照できないまま残ってしまう
