@@ -16,6 +16,7 @@ public class オーバーロード {
 		return x + y;
 	}
 	
+	//引数の型が違えば一致するメソッドを呼び出してくれる
 	public static void main(String[] args) {
 		System.out.println(add(10, 20));
 		System.out.println(add(3.5, 2.7));
