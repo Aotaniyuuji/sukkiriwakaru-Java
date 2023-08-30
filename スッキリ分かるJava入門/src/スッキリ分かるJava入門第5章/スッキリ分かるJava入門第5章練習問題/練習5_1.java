@@ -1,4 +1,4 @@
-package スッキリ分かるJava入門第5章練習問題;
+package スッキリ分かるJava入門第5章.スッキリ分かるJava入門第5章練習問題;
 
 public class 練習5_1 {
 	public static void main(String[] args) {
